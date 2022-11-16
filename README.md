@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @WendyOkoli
+- 👋 Hi, I’m Florence Okoli
 - 👀 I’m interested in Tech related projects with focus in cloud
 - 🌱 I’m currently learning Cloud Solutions Architecture 
 - 💞️ I’m looking to collaborate on cloud based projects. 
