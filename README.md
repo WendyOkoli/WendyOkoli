@@ -1,6 +1,5 @@
 # 💫 About Me:
-An AWS and Azure Cloud Practitioner
-I'm currently working on becoming a certified Solutions Architect with AWS.<br><br>n I'm open to collaborating on innovative solutions that address complex challenges, leveraging the latest technologies and best practices<br><br>I'm looking to land a Solutions Architect intern role in the tech industry to apply my skills in software development and problem-solving and contribute to cutting-edge projects while learning from experienced professionals.<br><br>I'm currently learning Python 
+An AWS and Azure Cloud Practitioner<br><br>I'm currently working on becoming a certified Solutions Architect with AWS.<br><br>n I'm open to collaborating on innovative solutions that address complex challenges, leveraging the latest technologies and best practices<br><br>I'm looking to land a Solutions Architect intern role in the tech industry to apply my skills in software development and problem-solving and contribute to cutting-edge projects while learning from experienced professionals.<br><br>I'm currently learning Python 
 
 
 ## 🌐 Socials:
@@ -22,4 +21,4 @@ I'm currently working on becoming a certified Solutions Architect with AWS.<br><
 ---
 [![](https://visitcount.itsvg.in/api?id=WendyOkoli&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
