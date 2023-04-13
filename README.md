@@ -5,10 +5,12 @@ I'm looking to land a Solutions Architect intern role in the tech industry to ap
 
 *   🌍  I'm based in Abuja - Nigeria
 *   🧠  I'm learning Python
-*   🤝  I'm open to collaborating on I'm open to collaborating on innovative solutions that address complex challenges, leveraging the latest technologies and best practices. Whether it's designing scalable systems, optimizing workflows, or integrating new tools, I'm always eager to collaborate with teams that are passionate about creating high-quality products that make a difference in people's lives.<a href="https://www.github.com/WendyOkoli" target="_blank" rel="noreferrer"><img
+*   🤝  I'm open to collaborating on I'm open to collaborating on innovative solutions that address complex challenges, leveraging the latest technologies and best practices. Whether it's designing scalable systems, optimizing workflows, or integrating new tools, I'm always eager to collaborate with teams that are passionate about creating high-quality products that make a difference in people's lives.
+
+<a href="https://www.github.com/WendyOkoli" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/WendyOkoli?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/Nwendu17" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/Nwendu17?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-                /></a>### Skills 
+                
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
