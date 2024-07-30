@@ -1,5 +1,16 @@
 # 💫 About Me:
-I'm an AWS Solutions Architect.<br><be> Cloud Engineering student at [AltSchool Africa](https://altschoolafrica.com/).<br><br> I'm open to collaborating on innovative solutions that address complex challenges, leveraging the latest technologies and best practices<br><br>I'm looking to land a Solutions Architect intern role in the tech industry to apply my skills in software development and problem-solving and contribute to cutting-edge projects while learning from experienced professionals.
+I'm Florence Okoli, a passionate and dedicated Cloud/DevOps Engineer with a robust background in cloud computing, automation, and infrastructure management. As a Cloud/DevOps Engineer, I am excited about the future of cloud technology and the endless possibilities it brings. I am committed to leveraging my skills and experience to drive innovation and efficiency, helping organizations achieve their goals through effective cloud solutions and automation. </br>
+
+What I Can Do for You
+
+• Optimize Cloud Infrastructure: I ensure your cloud environments are scalable, secure, and cost-efficient, tailored to meet your specific needs.
+• Automate Processes: By implementing robust automation frameworks, I reduce manual workloads, minimize errors, and accelerate your deployment cycles.
+• Enhance Security: I apply best practices in security to protect your data and infrastructure, ensuring compliance with industry standards.
+• Improve System Reliability: Utilizing advanced monitoring and alerting tools, I proactively address potential issues to maintain high system performance and uptime.
+
+Ready to take your cloud and DevOps initiatives to the next level? Let's connect and explore how I can help you achieve your goals. Reach out to me on LinkedIn (https://www.linkedin.com/in/florence-okoli/) or via email at florenceokoli91@gmail.com.
+
+Looking forward to collaborating with you!
 
 
 ## 🌐 Socials:
