@@ -3,10 +3,10 @@ I'm Florence Okoli, a passionate and dedicated Cloud/DevOps Engineer with a robu
 
 What I Can Do for You
 
-• Optimize Cloud Infrastructure: I ensure your cloud environments are scalable, secure, and cost-efficient, tailored to meet your specific needs.
-• Automate Processes: By implementing robust automation frameworks, I reduce manual workloads, minimize errors, and accelerate your deployment cycles.
-• Enhance Security: I apply best practices in security to protect your data and infrastructure, ensuring compliance with industry standards.
-• Improve System Reliability: Utilizing advanced monitoring and alerting tools, I proactively address potential issues to maintain high system performance and uptime.
+• Optimize Cloud Infrastructure: I ensure your cloud environments are scalable, secure, and cost-efficient, tailored to meet your specific needs. </br>
+• Automate Processes: By implementing robust automation frameworks, I reduce manual workloads, minimize errors, and accelerate your deployment cycles.</br>
+• Enhance Security: I apply best practices in security to protect your data and infrastructure, ensuring compliance with industry standards.</br>
+• Improve System Reliability: Utilizing advanced monitoring and alerting tools, I proactively address potential issues to maintain high system performance and uptime. </br>
 
 Ready to take your cloud and DevOps initiatives to the next level? Let's connect and explore how I can help you achieve your goals. Reach out to me on LinkedIn (https://www.linkedin.com/in/florence-okoli/) or via email at florenceokoli91@gmail.com.
 
