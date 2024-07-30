@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Florence Okoli, a passionate and dedicated Cloud/DevOps Engineer with a robust background in cloud computing, automation, and infrastructure management. As a Cloud/DevOps Engineer, I am excited about the future of cloud technology and the endless possibilities it brings. I am committed to leveraging my skills and experience to drive innovation and efficiency, helping organizations achieve their goals through effective cloud solutions and automation. </br>
+A passionate and dedicated Cloud/DevOps Engineer with a robust background in cloud computing, automation, and infrastructure management. As a Cloud/DevOps Engineer, I am excited about the future of cloud technology and the endless possibilities it brings. I am committed to leveraging my skills and experience to drive innovation and efficiency, helping organizations achieve their goals through effective cloud solutions and automation. </br>
 
 What I Can Do for You
 
